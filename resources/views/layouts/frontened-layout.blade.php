@@ -51,15 +51,16 @@
 
 	<section id="home" class="main-banner parallaxie" style="background: url('{{ asset('asset/frontend/uploads/banner-01.jpg')}}">
 		<div class="heading">
-			<h1>hello i'm Dominic</h1>
-			<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+			<h1>Hello i'm Mohim Molla</h1>
+			<p>"Mohim Molla: A Proficient PHP Laravel Developer <br> Shaping the Digital Landscape "</p>
 			<h3 class="cd-headline clip is-full-width">
-				<span>Lorem ipsum dolor sit amet </span>
+				<span>Pioneering Excellence in  </span>
 				<span class="cd-words-wrapper">
 					<b class="is-visible">Web Developer</b>
 					<b>Web Design</b>
-					<b>Creative Design</b>
-					<b>Graphic Design</b>
+					<b>UX Design</b>
+					<b>UI Design</b>
+					<b>PHP Laravel Development</b>
 				</span>
 			</h3>
 		</div>
@@ -95,9 +96,9 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="message-box">
-                        <h2>About Dominic.</h2>
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo. </p>
-						<p>Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo.</p>
+                        <h2>ABOUT MOHIM.</h2>
+                        <p> In the bustling world of web development, few names stand out for their expertise and dedication to crafting seamless digital experiences. One such luminary is Mohim Molla, a distinguished PHP Laravel developer whose passion for innovation and mastery of technology has redefined the realm of web applications. </p>
+						<p>With a penchant for problem-solving and an insatiable curiosity for the intricacies of coding, Mohim embarked on his journey into the realm of web development. Armed with a solid foundation in PHP and an unwavering enthusiasm for Laravel, he swiftly ascended through the ranks, establishing himself as a trailblazer in his field.</p>
 
                         <a href="#" class="sim-btn btn-hover-new" data-text="Download CV"><span>Download CV</span></a>
                     </div><!-- end messagebox -->
@@ -116,7 +117,7 @@
         <div class="container">
             <div class="section-title text-left">
                 <h3>Services</h3>
-                <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p>
+                <p>We specialize in crafting dynamic, user-centric websites tailored to meet your unique business needs. From concept to execution, our team of skilled developers and designers work collaboratively to create engaging online experiences.</p>
             </div><!-- end title -->
 
             <div class="row">
@@ -126,7 +127,7 @@
 							<i class="flaticon-seo"></i>
 						</div>
 						<h2>Web Development</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>"Web Development: The art of crafting digital experiences. It merges design and functionality, shaping user-friendly websites and applications. From coding languages like HTML, CSS, and JavaScript to dynamic frameworks, developers create innovative online platforms</p>
 					</div>
                 </div><!-- end col -->
                 <div class="col-md-4">
@@ -135,7 +136,7 @@
 							<i class="flaticon-development"></i>
 						</div>
 						<h2>Responsive Design</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>Responsive Design: Tailoring websites to adapt beautifully across devices, ensuring users experience seamless navigation and content accessibility, regardless of screen size, fostering an inclusive and engaging online presence.</p>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-4">
@@ -144,7 +145,7 @@
 							<i class="flaticon-process"></i>
 						</div>
 						<h2>Creative Design</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>Infusing innovation and imagination into visual and functional elements, it transcends boundaries to captivate audiences. By harmonizing aesthetics and usability, it births unique and impactful digital experiences, shaping memorable and immersive online journeys.</p>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-4">
@@ -153,7 +154,7 @@
 							<i class="flaticon-discuss-issue"></i>
 						</div>
 						<h2>Support</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>Providing essential assistance for website maintenance, troubleshooting, and enhancements. It ensures seamless functionality, security, and user experience, offering timely solutions to technical issues, updates, and optimizations, keeping online platforms reliable and optimized for continual performance.</p>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-4">
@@ -162,7 +163,7 @@
 							<i class="flaticon-idea"></i>
 						</div>
 						<h2>Web Idea</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>The genesis of innovative concepts driving online experiences. It sparks creativity, shaping the blueprint for engaging websites or applications. From inception to execution, it fuels the development of unique digital solutions, reshaping the virtual landscape with fresh, impactful ideas.</p>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-4">
@@ -171,7 +172,7 @@
 							<i class="flaticon-idea-1"></i>
 						</div>
 						<h2>Graphic Design</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>Proficient in leveraging the Laravel framework to craft robust, scalable web solutions. Skilled in PHP, they design secure, efficient applications with seamless functionalities, ensuring high-performance websites. Their expertise in Laravel streamlines development, delivering dynamic and customized digital experiences for diverse business needs</p>
 					</div>
                 </div><!-- end col -->
             </div><!-- end row -->
@@ -477,8 +478,9 @@
                         <a href="#">Faq</a>
                         <a href="#">Contact</a>
                     </p>
-                    <p class="footer-company-name">All Rights Reserved. &copy; 2018 <a href="#">Dominic</a> Design By :
-					<a href="https://html.design/">html design</a></p>
+                    <p class="footer-company-name">All Rights Reserved. &copy; 2023 <a href="#">MOHIM MOLLa</a> Design By :
+					<a href=""> Html design, PHP LARAVEL development
+                        </a></p>
                 </div>
             </div>
         </div><!-- end container -->
